@@ -1,1 +1,1 @@
-re
+This repo will contain solutions to the various assignments of the web dev bootcamp on udemy.
